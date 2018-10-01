@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		366D8A242162C16400CF04FA /* REO Speedwagon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 366D8A232162C16400CF04FA /* REO Speedwagon.jpg */; };
 		904D475D1F82D7A6008D61B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D475C1F82D7A6008D61B2 /* AppDelegate.swift */; };
 		904D475F1F82D7A6008D61B2 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D475E1F82D7A6008D61B2 /* MasterViewController.swift */; };
 		904D47611F82D7A6008D61B2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D47601F82D7A6008D61B2 /* DetailViewController.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		366D8A232162C16400CF04FA /* REO Speedwagon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "REO Speedwagon.jpg"; sourceTree = "<group>"; };
 		904D47591F82D7A6008D61B2 /* MyBand1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBand1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		904D475C1F82D7A6008D61B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		904D475E1F82D7A6008D61B2 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 		904D47701F82DB76008D61B2 /* photos */ = {
 			isa = PBXGroup;
 			children = (
+				366D8A232162C16400CF04FA /* REO Speedwagon.jpg */,
 				904D47711F82DBBB008D61B2 /* 38 Special.jpg */,
 				904D47721F82DBBB008D61B2 /* 45647127.jpg */,
 				904D47731F82DBBB008D61B2 /* Band Perry.jpg */,
@@ -182,6 +185,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				366D8A242162C16400CF04FA /* REO Speedwagon.jpg in Resources */,
 				904D478F1F82DBBB008D61B2 /* Main.png in Resources */,
 				904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */,
 				904D478E1F82DBBB008D61B2 /* logo402.png in Resources */,
